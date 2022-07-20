@@ -1,4 +1,2 @@
 # practice
 Nguyen Huy Ha
-
-
